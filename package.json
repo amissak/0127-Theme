@@ -1,0 +1,26 @@
+{
+  "name": "slate-shopify-starter-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amissak/0127-Theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amissak/0127-Theme/issues"
+  },
+  "homepage": "https://github.com/amissak/0127-Theme#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.41",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0"
+  }
+}
